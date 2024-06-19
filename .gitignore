@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -145,6 +146,8 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 ### Java ###
+=======
+>>>>>>> 1ee786f970789a42334d8151439d85e5a6f7cad5
 # Compiled class file
 *.class
 
@@ -169,5 +172,8 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+=======
+>>>>>>> 1ee786f970789a42334d8151439d85e5a6f7cad5
